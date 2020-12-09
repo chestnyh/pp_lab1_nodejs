@@ -1,0 +1,12 @@
+{
+  "name": "pp_lab1_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chestnykh  Oleksii",
+  "license": "ISC"
+}
